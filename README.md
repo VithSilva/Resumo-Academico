@@ -1,0 +1,2 @@
+# Resumo-Academico
+Resumo de natureza teórica e perspectiva qualitativa com base em artigos científicos e veridicos.
