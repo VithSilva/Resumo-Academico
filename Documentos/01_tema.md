@@ -22,7 +22,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
+- Tema amplo: `O Conceito de Design Universal e a Matriz da Acessibilidade`
 - Objeto estudado: `UI/UX Design`
 - Contexto ou aplicação: `Acessibilidade digital que vai alem das barreiras. Como a UX/UI pode promover inclusão e 
 empoderamento social tanto no mercado, quanto no pessoal.`
@@ -55,6 +55,6 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `João Vithor Silva Albuquerque` | `[preencher` |
-| `João Vitor Oliveira da Silva` | `[preencher` |
-| `Gerdson Luiz Felix Oliveira` | `[preencher` |
+| `João Vithor Silva Albuquerque` | `Administrador do projeto` |
+| `João Vitor Oliveira da Silva` | `Contribuidor` |
+| `Gerdson Luiz Felix Oliveira` | `Contribuidor` |
