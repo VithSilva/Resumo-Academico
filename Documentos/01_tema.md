@@ -55,6 +55,6 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `João Vithor Silva Albuquerque` |
-| `[nome]` | `João Vitor Oliveira da Silva` |
-| `[nome]` | `Gerdson Luiz Felix Oliveira` |
+| `João Vithor Silva Albuquerque` | `[preencher` |
+| `João Vitor Oliveira da Silva` | `[preencher` |
+| `Gerdson Luiz Felix Oliveira` | `[preencher` |
