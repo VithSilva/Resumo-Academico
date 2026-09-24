@@ -7,18 +7,18 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `Gerdson Luiz Felix Oliveira - Bruno Luiz dos Santos - João Vitor Oliveira da Silva - João Vithor Silva Albuquerque`
+- Data: `24/09/2026`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`Design de experiencia do usuário, acessibilidade digital e seu impacto visual.  `
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`O impacto social das telas e como ela influencia o usuário. A inclusão da acessibilidade e design visual para telas. `
 
 ### Do tema amplo ao específico
 
