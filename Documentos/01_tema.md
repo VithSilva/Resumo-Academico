@@ -23,14 +23,15 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Objeto estudado: `UI/UX Design`
+- Contexto ou aplicação: `Acessibilidade digital que vai alem das barreiras. Como a UX/UI pode promover inclusão e 
+empoderamento social tanto no mercado, quanto no pessoal.`
+- Aspecto que será analisado: `O artigo aborda como o design acessível melhora a experiência de usuários com deficiência ou baixa letramento digital. Explorando conceitos como contraste, arquitetura de informação, navegação por teclado e leitores de tela, o texto demonstra a aplicação de diretrizes da WCAG, a criação de personas inclusivas e o mapeamento de jornadas focadas em acessibilidade.`
+- O que ficará fora do estudo: `Exclusão Intencional e Maus Designs`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`O tema é importante pois abrange o conhecimento da area, `
 
 ### Viabilidade
 
