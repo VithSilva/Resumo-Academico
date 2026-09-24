@@ -31,13 +31,13 @@ empoderamento social tanto no mercado, quanto no pessoal.`
 
 ### Justificativa
 
-`O tema é importante pois abrange o conhecimento da area, `
+`O tema é importante pois abrange o conhecimento da area e promove a inclusão e o impacto do UI/UX Design, tanto socialmente quanto digitalmente. `
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
@@ -55,4 +55,6 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[nome]` | `João Vithor Silva Albuquerque` |
+| `[nome]` | `João Vitor Oliveira da Silva` |
+| `[nome]` | `Gerdson Luiz Felix Oliveira` |
