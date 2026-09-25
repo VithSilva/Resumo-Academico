@@ -58,3 +58,7 @@ Tema delimitado e justificativa.
 | `João Vithor Silva Albuquerque` | `Administrador do projeto` |
 | `João Vitor Oliveira da Silva` | `Contribuidor` |
 | `Gerdson Luiz Felix Oliveira` | `Contribuidor` |
+<table>
+  <td width="10%" align="center" valign="top">
+      <img src="https://www.image2url.com/r2/default/gifs/1788285265214-58574346-3bae-467e-8900-9bddd47a38a3.gif" width="50%" alt="・゜゜・．🗝️⋆｡𖦹°‧★" />
+</table>
