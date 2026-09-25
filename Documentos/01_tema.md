@@ -12,26 +12,29 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Preenchimento
 
+### Título/Nome do Tema
+
+`Acessibilidade Digital em UI/UX Design: O Impacto da Inclusão e do Design Universal na Experiência de Pessoas com Deficiência`
+
 ### Área geral
 
-`Design de experiencia do usuário, acessibilidade digital e seu impacto visual.  `
+`Design de Experiência do Usuário (UX/UI), Acessibilidade Digital e Tecnologias Assistivas.`
 
 ### Tema delimitado
 
-`O impacto social das telas e como ela influencia o usuário. A inclusão da acessibilidade e design visual para telas. `
+`O impacto do UX/UI Design acessível e do Design Universal na inclusão digital e social de pessoas com deficiência, analisando a aplicação de diretrizes visuais e estruturais para garantir autonomia e usabilidade.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `O Conceito de Design Universal e a Matriz da Acessibilidade`
-- Objeto estudado: `UI/UX Design`
-- Contexto ou aplicação: `Acessibilidade digital que vai alem das barreiras. Como a UX/UI pode promover inclusão e 
-empoderamento social tanto no mercado, quanto no pessoal.`
-- Aspecto que será analisado: `O artigo aborda como o design acessível melhora a experiência de usuários com deficiência ou baixa letramento digital. Explorando conceitos como contraste, arquitetura de informação, navegação por teclado e leitores de tela, o texto demonstra a aplicação de diretrizes da WCAG, a criação de personas inclusivas e o mapeamento de jornadas focadas em acessibilidade.`
-- O que ficará fora do estudo: `Exclusão Intencional e Maus Designs`
+- Tema amplo: `Design Universal e Acessibilidade Digital`
+- Objeto estudado: `Práticas e diretrizes de UI/UX Design aplicadas à inclusão de pessoas com deficiência (visual, motora, auditiva e cognitiva)`
+- Contexto ou aplicação: `Sistemas e interfaces digitais focados na promoção do empoderamento social, autonomia e remoção de barreiras atitudinais e digitais para pessoas com deficiência.`
+- Aspecto que será analisado: `Como a aplicação rigorosa das diretrizes da WCAG (contraste, arquitetura de informação, navegação por teclado, leitores de tela) e o desenvolvimento de personas inclusivas impactam diretamente a usabilidade, a independência e a experiência digital de usuários com deficiência.`
+- O que ficará fora do estudo: `Design de interfaces não focadas em acessibilidade, padrões de usabilidade sem viés inclusivo e análises exclusivas de usabilidade geral sem recorte para pessoas com deficiência.`
 
 ### Justificativa
 
-`O tema é importante pois abrange o conhecimento da area e promove a inclusão e o impacto do UI/UX Design, tanto socialmente quanto digitalmente. `
+`O artigo é essencial para eviddenciar como o UX/UI Design atua não apenas como ferramenta estética ou funcional, mas como um agente de transformação e inclusão social. A implementação correta da acessibilidade digital garante direitos fundamentais, promove a autonomia de pessoas com deficiência e elimina as barreiras de navegação.`
 
 ### Viabilidade
 
@@ -41,24 +44,26 @@ empoderamento social tanto no mercado, quanto no pessoal.`
 
 ## Produto da etapa
 
-Tema delimitado e justificativa.
+Tema delimitado e justificativa com foco central na acessibilidade para pessoas com deficiência (PcD).
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `João Vithor Silva Albuquerque` | `Pesquisou e elaborou o tema, construiu o repositorio.` |
+| `João Vithor Silva Albuquerque` | `Pesquisou e elaborou o tema, construiu o repositório.` |
 | `João Vitor Oliveira da Silva` | `Sugestão de ideias e aprofundamento dos temas.` |
-| `Gerdson Luiz Felix Oliveira` | `Sugestão de ideias e aprofundamento dos temas` |
+| `Gerdson Luiz Felix Oliveira` | `Sugestão de ideias e aprofundamento dos temas.` |
+
 <table>
   <td width="10%" align="center" valign="top">
-      <img src="https://www.image2url.com/r2/default/gifs/1788285265214-58574346-3bae-467e-8900-9bddd47a38a3.gif" width="50%" alt="・゜゜・．🗝️⋆｡𖦹°‧★" />
+      <img src="https://cdn.imageurlgenerator.com/uploads/4086cb78-68e5-441a-812a-91433b0da769.gif" width="50%" alt="・゜゜・．🗝️⋆｡𖦹°‧★" />
+  </td>
 </table>
