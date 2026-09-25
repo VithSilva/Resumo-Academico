@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`Acessibilidade Digital em UI/UX Design: O Impacto da Inclusão e do Design Universal na Experiência de Pessoas com Deficiência`
 
 ## Pergunta de pesquisa
 
