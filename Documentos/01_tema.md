@@ -34,7 +34,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`O artigo é essencial para eviddenciar como o UX/UI Design atua não apenas como ferramenta estética ou funcional, mas como um agente de transformação e inclusão social. A implementação correta da acessibilidade digital garante direitos fundamentais, promove a autonomia de pessoas com deficiência e elimina as barreiras de navegação.`
+`O artigo é essencial para evidenciar como o UX/UI Design atua não apenas como ferramenta estética ou funcional, mas como um agente de transformação e inclusão social. A implementação correta da acessibilidade digital garante direitos fundamentais, promove a autonomia de pessoas com deficiência e elimina as barreiras de navegação.`
 
 ### Viabilidade
 
