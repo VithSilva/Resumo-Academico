@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `João Vitor Oliveira da Silva` | `desenvolveu o assunto` |
+| `João Vitor Oliveira da Silva` | `desenvolveu o assunto e respondeu todo o assunto.` |
