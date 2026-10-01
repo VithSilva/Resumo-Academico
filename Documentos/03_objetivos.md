@@ -10,7 +10,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`Análisar, de acordo com a literatura cientifica do últimos anos, as principais barreiras enfrentadas por pessoas com deficiência ao acessar sites e como práticas de UI/UX e Design Universal, alinhadas às diretrizes da WCAG(Diretrizes de acessibilidade para o conteúdo da web) e à LBI(Lei Brasileira de Inclusão), contribuem para reduzi-las e promover autonomia e inclusão digital.`
 
 ## Objetivos específicos
 
