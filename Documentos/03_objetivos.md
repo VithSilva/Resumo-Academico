@@ -24,8 +24,8 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 | Elemento | Texto |
 |---|---|
 | Problema | `Quais são as principais dificuldades enfrentadas por pessoas com deficiência ao acessar sites e como praticas de UI/UX e Design Universal podem reduzi-las.` |
-| Objetivo geral | `Demonstrar as complicações enfrentadas por pessoas com deficiências com UI/UX em meio a sites e aplicativos.` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Objetivo geral | `Reconhecer as complicações enfrentadas por pessoas com deficiências com UI/UX em meio a sites e aplicativos.` |
+| Resultado esperado | `Demonstrar as aplicações que possam melhorar a acessibilidade do publico com alguma forma de déficit` |
 
 ## Produto da etapa
 
