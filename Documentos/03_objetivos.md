@@ -23,7 +23,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 | Elemento | Texto |
 |---|---|
-| Problema | `Quais são as principais dificuldades enfrentadas por pessoas com deficiência ao acessar sites e como praticas de UI/UX e Design Universal podem reduzi-las?` |
+| Problema | `Quais são as principais dificuldades enfrentadas por pessoas com deficiência ao acessar sites e como praticas de UI/UX e Design Universal podem reduzi-las.` |
 | Objetivo geral | `[preencher]` |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
