@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`Quais são as principais dificuldades enfrentadas por pessoas com deficiência ao acessar sites e como práticas de UI/UX e Design Universal podem reduzi-las?`
 
 ## Objetivo geral
 
