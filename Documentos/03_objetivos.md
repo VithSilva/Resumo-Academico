@@ -14,10 +14,10 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `Identificar as principais dificuldades de acesso a sites relatadas por pessoas com deficiência motora, visual, auditiva e cognitiva.`
+2. `Descrever as diretrizes e os principios de acessibilidade que orientam o desenvolvimento de interfaces inclusivas `
+3. `Discutir praticas UI/UX e seus efeitos sobre a usabilidade e a independencia dos usúarios`
+4. `Sintetizar as relações entre as barreiras identificadas e as praticas de design apontadas como soluções`
 
 ## Quadro de alinhamento
 
