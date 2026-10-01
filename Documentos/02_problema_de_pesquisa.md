@@ -17,8 +17,8 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 - O que se deseja descobrir ou compreender? `Nós desejamos compreender como melhorar a experiencia e a forma de facilitar a acessibilidade dos usuários. `
 - Qual é o objeto da pergunta? `O objetivo é a experiência de acesso a sites por pessoas com deficiência, em particular as barreiras que elas encontram na interface e as práticas de UI/UX e Design que podem removê-las.`
 - Qual é o contexto ou recorte? `Sites e aplicativos web acessados por pessoas com deficiência, com foco em usuários brasileiros e nas diretrizes WCAG e na LBI (Lei Brasileira de Inclusão, Lei nº 13.146/2015). O recorte temporal considerado estudos publicados nos últimos 10 anos`
-- A pergunta pode ser respondida por artigos científicos? ``
-- Por que essa pergunta é relevante? `[preencher]`
+- A pergunta pode ser respondida por artigos científicos? `Sim. Existe produção acadêmica consolidada sobre acessibilidade.`
+- Por que essa pergunta é relevante? `Porque milhões de pessoas têm algum tipo de deficiência e ainda enfrentam barreiras para usar serviços básicos na internet, como compras, banco, educação e serviços públicos. entender as dificuldades reais ajuda designers e desenvolvedores a criar interfaces mais inclusivas, que garantem o direito de acesso, cumprem a legislação e acabam melhorando a experiência para todos os usuários.`
 
 ## Produto da etapa
 
