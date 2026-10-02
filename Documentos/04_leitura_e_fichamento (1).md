@@ -36,7 +36,10 @@ O relatório WebAIM de 2024 encontrou média de 56,8 erros de acessibilidade por
 
 ### Principais resultados
 
-`[preencher]`
+`A literatura de acessibilidade digital evoluiu de análises de erros para recomendações de boas práticas, avaliações de sites governamentais e universitários e, depois, estudos de experiência do usuário e design participativo.
+Há poucas publicações que unem ergonomia cognitiva e acessibilidade digital. Existe, porém, forte relação entre a ergonomia cognitiva e o design, sobretudo na perspectiva da experiência do usuário.
+Barreiras recorrentes citadas: cores e contraste, ausência de texto alternativo, visibilidade de links, listas, atributos de idioma e rótulos de formulários.
+Um gargalo apontado é a formação dos profissionais. Estudos citados mostram falta de competências e de priorização da acessibilidade em equipes de software, dificuldade de recrutar PcD qualificadas e possível viés de desejabilidade social (43,8% se declararam proficientes).`
 
 ### Limitações apresentadas
 
@@ -44,17 +47,25 @@ O relatório WebAIM de 2024 encontrou média de 56,8 erros de acessibilidade por
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`Objetivo 1: lista as barreiras mais frequentes (contraste, texto alternativo, rótulos, idioma, links) e traz dados sobre o cenário brasileiro e global.
+Objetivo 2: resume a evolução das WCAG (1.0 em 1999; 2.0 em 2008, com os quatro princípios perceptível, operável, compreensível e robusto) e as críticas à sua complexidade.
+Objetivo 3: aponta lacunas importantes, como a formação de designers e desenvolvedores e a distância entre as pesquisas e as práticas das empresas. Isso sustenta recomendações para designers.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Pontos fortes:
+É brasileiro, recente e em português, e conversa com o contexto da nossa pergunta.
+Dá uma visão ampla da evolução da área e levanta uma lacuna original, que é olhar para quem desenvolve e não só para o usuário final.
+Fragilidades:
+É um levantamento bibliográfico sem protocolo sistemático explícito. Não há critérios de inclusão e exclusão, nem fluxograma de seleção.
+Boa parte das obras citadas é anterior a 2021.
+O foco principal é a ergonomia cognitiva, que se afasta um pouco do nosso recorte (barreiras por tipo de deficiência e práticas de UI/UX). Usamos como apoio e não como fonte única.`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `"o universo digital oferece barreiras de acesso"`
 
-Página: `[número]`
+Página: `1 (Introdução)`
 
 ## Checklist
 
