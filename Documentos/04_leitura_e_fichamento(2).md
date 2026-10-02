@@ -8,11 +8,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `Accessibility in UI/UX Design: How Designers Can Create Better, Inclusive User Experiences`
+* DOI ou URL: `https://www.orbix.studio/blogs/accessibility-in-ui-ux-design`
+* Base de origem: `Orbix Studio`
+* Leitor responsável: `Bruno Luiz dos Santos`
+* Data da leitura: `01/10/2026`
 
 ## Fichamento
 
