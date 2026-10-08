@@ -26,23 +26,25 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Método utilizado
 
-``
+`O método utilizado no artigo combina pesquisa bibliográfica e pesquisa de campo.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`Contexto:  o artigo analisa como os icones reduz a carga e facilita a experiencia do usuário, mas principalmente para pessoas com limitações visuais ou escrita.
+ Amostra: amostras realizadas por Rodrigo Lemes, Karina Tonkos, Ivan Henrique, Wellinton Martiola, Daniel Furtado e Carla de Bona.
+ Dados: Depoimentos obtidos por e-mail sentre setembro e outubro de 2019, conquistado por um questionario sobre o tema. `
 
 ### Principais resultados
 
-`[preencher]`
+`O impacto na UX, como os icones aceleram o reconhecimento  e reduzem a carga visual na navegação. Boas praticas no Design, acompanhada na acessibilidade e inclusão, principalmente para pessoas com deficiencias, sejam visuais, cognitivas ou fisicas.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`As limitações apresentadas no artigo podem ser analisadas sob duas perspectivas, a metodológica e a conceitual/prática.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`O artigo  nos oferece contribuições teoricas e praticas fundamentaisde uma revisão, que icones bem estruturados e estabelecidos aceleram na percepção visual do usuario.`
 
 ### Comentário crítico
 
@@ -56,9 +58,9 @@ Página: `[número]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
