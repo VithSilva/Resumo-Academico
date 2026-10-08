@@ -8,25 +8,25 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `MELO, Erildo Vitor Medeiros; Ícones no design de interfaces: user experience e acessibilidade digital[1][2]. 2019\. 55 f. Monografia (Graduação em Comunicação Social – Publicidade e Propaganda) – Departamento de Comunicação Social, Centro de Ciências Humanas, Letras e Artes, Universidade Federal do Rio Grande do Norte, Natal, 2019`
+* DOI ou URL: `https://repositorio.ufrn.br/server/api/core/bitstreams/a65442a8-5d95-4652-8056-6f2e9d51b077/content`
+* Base de origem: `Universidade Federal do Rio Grande do Norte (UFRN)`
+* Leitor responsável: `João Vithor Silva Albuquerque`
+* Data da leitura: `08/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`O problema investigado no artigo gira em torno da função e eficácia dos ícones nas interfaces de telas digitais enquanto ferramentas de facilitação comunicacional e democratização do acesso à informação`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`O trabalho objetiva discutir a função dos ícones nos produtos e telas digitais, buscando compreender a eficácia enquanto usa uma ferramenta de democratização do acesso à comunicação e ampliação da acessibilidade digital nas interfaces`
 
 ### Método utilizado
 
-`[preencher]`
+``
 
 ### Contexto, amostra ou dados
 
