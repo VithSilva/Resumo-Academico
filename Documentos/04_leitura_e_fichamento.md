@@ -44,7 +44,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contribuição para o nosso artigo
 
-`O artigo  nos oferece contribuições teoricas e praticas fundamentaisde uma revisão, que icones bem estruturados e estabelecidos aceleram na percepção visual do usuario.`
+`O artigo  nos oferece contribuições teóricas e praticas fundamentais de uma revisão, que ícones bem estruturados e estabelecidos aceleram na percepção visual do usuário.`
 
 ### Comentário crítico
 
