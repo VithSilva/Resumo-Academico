@@ -8,17 +8,17 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `Accessibility in UI/UX Design: How Designers Can Create Better, Inclusive User Experiences`
-* DOI ou URL: `https://www.orbix.studio/blogs/accessibility-in-ui-ux-design`
+* Referência completa: `de Souza Silva, Isadora Moreira, and Giuliano Scombatti Pinto. "O impacto do design na criação de sistemas mais acessíveis." Revista Interface Tecnológica 21.2 (2024): 224-235.`
+* DOI ou URL: `https://doi.org/10.31510/infa.v21i2.2099`
 * Base de origem: `Orbix Studio`
 * Leitor responsável: `Bruno Luiz dos Santos`
-* Data da leitura: `01/10/2026`
+* Data da leitura: `12/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`O artigo destaca os principais problemas que grande parte do publico tem com a acessibilidade voltada em sstemas de forma abrangente.`
 
 ### Objetivo do estudo
 
@@ -26,7 +26,10 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Método utilizado
 
-`[preencher]`
+` A pesquisa utiliza uma metodologia mista, combinando
+uma revisão de literatura aprofundada com estudos de caso práticos realizados por outros
+pesquisadores, para fornecer diretrizes concretas que visem a criação de sistemas digitais
+acessíveis desde o estágio inicial de desenvolvimento.`
 
 ### Contexto, amostra ou dados
 
