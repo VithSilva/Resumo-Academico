@@ -30,19 +30,19 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`O artigo demonstra muitos pontos em que usuários enfrentam dificuldades, sejam elas físicas, sensoriais e cognitivas, assim apontando pontos eu que sistemas possuem pouca acessibilidade e também mostra como essas aplicações afetam a positividade do sistema em relação a empresa em si. `
 
 ### Principais resultados
 
-`[preencher]`
+`O artigo apresenta vários pontos a serem vistos pelo pelo usuário que enfrentam dificuldades na acessibilidade, pontos que podem ser planejados desde o inicio assim evitando custos adicionais para implementações futuras no sistema para que pontos simples possam ser planejados da melhor forma para que os usuários possam se sentir mias acolhidos, o que se torna um ponto positivo direto para qualquer primeira impressão em um sistema.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`Muitas empresas de limitam apenas as obrigações legais sobre a acessibilidade no brasil, evitando tornar o sistema mais acessivel por custos a empresa.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+``
 
 ### Comentário crítico
 
