@@ -10,7 +10,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 * Referência completa: `de Souza Silva, Isadora Moreira, and Giuliano Scombatti Pinto. "O impacto do design na criação de sistemas mais acessíveis." Revista Interface Tecnológica 21.2 (2024): 224-235.`
 * DOI ou URL: `https://doi.org/10.31510/infa.v21i2.2099`
-* Base de origem: ``
+* Base de origem: `Interface Tecnológica - Faculdade de Tecnologia de Taquaritinga (FATEC -TQ)`
 * Leitor responsável: `Bruno Luiz dos Santos`
 * Data da leitura: `12/10/2026`
 
