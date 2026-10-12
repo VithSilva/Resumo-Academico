@@ -18,18 +18,15 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`O artigo destaca os principais problemas que grande parte do publico tem com a acessibilidade voltada em sstemas de forma abrangente.`
+`O artigo destaca os principais problemas que grande parte do publico tem com a acessibilidade voltada em sistemas de forma abrangente e apresentar uma forma de contornar esses problemas com soluções simples.`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Destacar pontos principais que o publico com algum tipo de deficiência ou dificuldade possam ter em diferentes sistemas e plataformas digitais e apresentar uma forma mais acessível e facilitada de planejar a inclusão delas nesse sistemas.`
 
 ### Método utilizado
 
-` A pesquisa utiliza uma metodologia mista, combinando
-uma revisão de literatura aprofundada com estudos de caso práticos realizados por outros
-pesquisadores, para fornecer diretrizes concretas que visem a criação de sistemas digitais
-acessíveis desde o estágio inicial de desenvolvimento.`
+`A pesquisa utilizou a combinação de revisões literárias aprofundadas junto a estudos práticos realizados por outros pesquisadores, assim apresentando formas acessíveis na criação de sistemas desde o início do desenvolvimento.`
 
 ### Contexto, amostra ou dados
 
