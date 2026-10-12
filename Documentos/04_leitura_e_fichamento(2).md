@@ -10,7 +10,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 * Referência completa: `de Souza Silva, Isadora Moreira, and Giuliano Scombatti Pinto. "O impacto do design na criação de sistemas mais acessíveis." Revista Interface Tecnológica 21.2 (2024): 224-235.`
 * DOI ou URL: `https://doi.org/10.31510/infa.v21i2.2099`
-* Base de origem: `Orbix Studio`
+* Base de origem: ``
 * Leitor responsável: `Bruno Luiz dos Santos`
 * Data da leitura: `12/10/2026`
 
@@ -42,23 +42,26 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contribuição para o nosso artigo
 
-``
+`A apresentação dos principais pontos fracos em um desenvolvimento de sistemas nos mostra de forma mais ampla como a conscientização sobre a dificuldade que muitas pessoas encaram e como isso pode afetar diretamente a vida delas, conhecer esses pontos e saber como contorna-los amplia o senso critico e visão de inclusão do conteudo.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`A inclusão digital nunca foi tão importante no contexto tecnológico atual como é hoje, a tecnologia avança cada dia mais e muitas pessoas não conseguem se manter a par de toda essa evolução, podemos representar essas pessoas mantendo a acessibilidade a todos, dar a oportunidade dessas pessoas se manifestarem para que possamos resolver quaisquer dificuldades que surjam, ter ciência dessas dificuldades, ter noção de como contorna-las de formas simples durante a implementação de um projeto é extremamente importante para qualquer desenvolvedor.`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `"De acordo com Furtado e Lobato (2007), o design de sistemas deve atender a
+requisitos que vão além de critérios técnicos, incluindo preocupações sociais e culturais, para
+que as plataformas digitais promovam a inclusão e permitam que pessoas com deficiência se
+sintam representadas e engajadas."`
 
-Página: `[número]`
+Página: `2`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
