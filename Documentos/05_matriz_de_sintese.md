@@ -23,22 +23,22 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `As barreiras são frequentes, afetam vários tipos de deficiência e limitam a inclusão.`
-* Evidências que serão usadas: `Dados de Souza e Silva (0,46% de páginas brasileiras aprovadas em testes; média de 56,8 erros por página); dificuldades físicas, sensoriais e cognitivas (Souza e Pinto); ícones e limitações visuais (melo)`
-* Comparação entre estudos: `Souza e Silva é técnico, Souza e Pinto é social e Melo é pontual.`
-* Ligação com o problema: `Sustenta a identificação das barreiras por tipo de deficiência.`
+* Ideia principal: `as barreiras são comuns, atingem pessoas com diferentes deficiências e dificultam a inclusão.`
+* Evidências que serão usadas: `os números de Souza e Silva (apenas 0,46% das páginas brasileiras passaram nos testes de acessibilidade e há, em média, 56,8 erros por página); as dificuldades físicas, sensoriais e cognitivas descritas por Souza e Pinto; e o exemplo dos ícones para pessoas com limitações visuais, em Melo.`
+* Comparação entre estudos: `Souza e Silva olha para os números e a parte técnica, Souza e Pinto para o impacto na vida das pessoas e Melo para um recurso específico da interface.`
+* Ligação com o problema: `ajuda a identificar quais barreiras afetam cada tipo de deficiência.`
 
 ### Eixo 2
 
-* Ideia principal: `Pensar a acessibilidade desde o início, com soluções simples, melhora a experiência e reduz custos.`
-* Evidências que serão usadas: `Planejamento inicial e requisitos sociais (Souza e Pinto); ícones que aceleram o reconhecimento (Melo); evolução e críticas às WCAG (Souza e Silva).`
-* Comparação entre estudos: `Os três veem o design como solução, mas em escalas diferentes.`
+* Ideia principal: `pensar na acessibilidade desde o começo do projeto, com soluções simples, deixa a experiência melhor e evita gastos depois.`
+* Evidências que serão usadas: `a importância de planejar cedo e considerar aspectos sociais (Souza e Pinto); ícones que facilitam o reconhecimento rápido (Melo); e a evolução das WCAG e as críticas à sua complexidade (Souza e Silva).`
+* Comparação entre estudos: `Os os três enxergam o design como parte da solução, cada um em uma escala: o sistema inteiro, um elemento de interface e a base teórica.`
 * Ligação com o problema: `Sustenta as recomendações de UI/UX para designers.`
 
 ### Eixo 3
 
-* Ideia principal: `As barreiras persistem por falta de formação, priorização e investimento.`
-* Evidências que serão usadas: `Falta de competência nas equipes e 43,8% de profissionais que se declararam proficientes (Souza e Silva); empresas que cumprem só o mínimo legal (Souza e Pinto).`
+* Ideia principal: `as barreiras continuam porque faltam preparo, prioridade e investimento nas equipes e nas empresas.`
+* Evidências que serão usadas: `a falta de competências nas equipes e o dado de que 43,8% dos profissionais se declararam proficientes (Souza e Silva); e empresas que fazem só o mínimo exigido por lei (Souza e Pinto).`
 * Comparação entre estudos: `Um olhar para o profissional, o outro para a empresa, e os dois se complementam.`
 * Ligação com o problema: `explica por que as barreiras persistem e apoia recomendações sobre formação.`
 
