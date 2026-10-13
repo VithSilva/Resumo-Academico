@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Barreiras de impactos` |` Souza e Silva (2024): Souza e Pinto (2024): Melo (2019) `|`Pessoas com deficiência enfrentam barreiras de forma recorrente links que prejudicam a experiência de uso. `|`Souza e Silva utilizam uma abordagem técnica e quantitativa. Souza e pinto `|`[preencher]`|`[preencher]`|
+|`Barreiras de impactos` |` Souza e Silva (2024); Souza e Pinto (2024); Melo (2019) `|`Pessoas com deficiência enfrentam barreiras de forma recorrente links que prejudicam a experiência de uso. `|`Souza e Silva: utilizam uma abordagem técnica e quantitativa. Souza e pinto: observam por um ponto de vista social. Melo: foco nos ícones. `|`Falta de protocolo sistemático (Souza e Silva); ausência de coleta própria (Souza e Pinto); amostra pequena (Melo).`|``|
 |`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
