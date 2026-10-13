@@ -49,8 +49,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
