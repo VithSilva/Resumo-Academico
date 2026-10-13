@@ -14,7 +14,10 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|``|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+
 
 ## Roteiro da revisão da literatura
 
