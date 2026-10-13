@@ -30,10 +30,18 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `Pensar a acessibilidade desde o início, com soluções simples, melhora a experiência e reduz custos.`
+* Evidências que serão usadas: `Planejamento inicial e requisitos sociais (Souza e Pinto); ícones que aceleram o reconhecimento (Melo); evolução e críticas às WCAG (Souza e Silva).`
+* Comparação entre estudos: `Os três veem o design como solução, mas em escalas diferentes.`
+* Ligação com o problema: `Sustenta as recomendações de UI/UX para designers.`
+
+### Eixo 3
+
+* Ideia principal: `As barreiras persistem por falta de formação, priorização e investimento.`
+* Evidências que serão usadas: `Falta de competência nas equipes e 43,8% de profissionais que se declararam proficientes (Souza e Silva); empresas que cumprem só o mínimo legal (Souza e Pinto).`
+* Comparação entre estudos: `Um olhar para o profissional, o outro para a empresa, e os dois se complementam.`
+* Ligação com o problema: `Explica por que as barreiras continuam e sustenta as recomendações sobre a formação.`
+
 
 ## Síntese crítica provisória
 
