@@ -40,12 +40,12 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 * Ideia principal: `As barreiras persistem por falta de formação, priorização e investimento.`
 * Evidências que serão usadas: `Falta de competência nas equipes e 43,8% de profissionais que se declararam proficientes (Souza e Silva); empresas que cumprem só o mínimo legal (Souza e Pinto).`
 * Comparação entre estudos: `Um olhar para o profissional, o outro para a empresa, e os dois se complementam.`
-* Ligação com o problema: `Explica por que as barreiras continuam e sustenta as recomendações sobre a formação.`
+* Ligação com o problema: `explica por que as barreiras persistem e apoia recomendações sobre formação.`
 
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`Os estudos concordam que as barreiras digitais são comuns, que o design e a UX são essenciais para reduzi-las e que pensar na acessibilidade desde o início funciona melhor do que corrigir depois. Eles se diferenciam no foco: Souza e Silva trata da avaliação técnica e da ergonomia cognitiva, Souza e Pinto do impacto social e das decisões das empresas, e Melo dos ícones. Em comum, poucos testam as soluções com pessoas com deficiência e todos dependem de revisão de literatura ou de amostras pequenas. Ainda faltam dados por tipo de deficiência, mais atenção à formação dos profissionais e uma aproximação entre pesquisa e prática, e é isso que justifica o foco do nosso artigo.`
 
 ## Checklist
 
