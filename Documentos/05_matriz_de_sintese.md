@@ -6,15 +6,15 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Barreiras de acessibilidade digital e seus impactos`
+2. `Práticas de design e UX como solução`
+3. `Formação dos profissionais e fatoresorganizacionais`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|``|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
