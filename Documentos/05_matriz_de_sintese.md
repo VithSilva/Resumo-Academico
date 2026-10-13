@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Barreiras de impactos` |` Souza e Silva (2024): Souza e Pinto (2024`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
