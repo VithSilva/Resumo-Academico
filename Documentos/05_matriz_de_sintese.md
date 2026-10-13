@@ -15,8 +15,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
 |`Barreiras de impactos` |` Souza e Silva (2024); Souza e Pinto (2024); Melo (2019) `|`Pessoas com deficiência enfrentam barreiras de forma recorrente links que prejudicam a experiência de uso. `|`Souza e Silva: utilizam uma abordagem técnica e quantitativa. Souza e pinto: observam por um ponto de vista social. Melo: foco nos ícones. `|`Falta de protocolo sistemático (Souza e Silva); ausência de coleta própria (Souza e Pinto); amostra pequena (Melo).`|`Poucos dados de usuários reais organizados por tipo de deficiência.`|
-|`Práticas de design e UX`|``|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`Barreiras de impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Práticas de design e UX`|`Souza e Pinto (2024); Melo (2019); Souza e Silva (2024)`|`Design e UX são parte central da solução; planejar desde o início evita custos e melhora a experiência.`|`Solução em escalas diferentes: sistema (Souza e Pinto), Ícones (Melo) e ergonomia cognitiva (Souza e Silva).`|`Melo é de 2019 e é monografia; Souza e Silva é exploratório.`|`Poucos estudos unindo ergonomia cognitiva, design e acessibilidade; faltam testes das soluções.`|
+|`Formação e fatores organizacionais`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 
 ## Roteiro da revisão da literatura
