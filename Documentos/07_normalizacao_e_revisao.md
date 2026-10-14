@@ -15,7 +15,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * [x] Tema, problema e objetivos estão alinhados.
 * [x] As conclusões respondem ao problema.
-* [ ] Não existem afirmações sem fonte quando a fonte é necessária.
+* [x] Não existem afirmações sem fonte quando a fonte é necessária.
 * [x] As limitações do trabalho foram reconhecidas.
 * [x] Não foram incluídos resultados inexistentes.
 
@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`04_leitura_e_fichamento.md`|`Data do artigo fora do prazo solicitado`|`Inclusão de um novo artigo com data no prazo solicitado, com todos o arquivo refeito do zero.`|`João Vithor Silva Albuquerque`|
 
 
 
