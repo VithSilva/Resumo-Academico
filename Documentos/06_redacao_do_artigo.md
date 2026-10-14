@@ -46,13 +46,15 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`SILVA, Isadora Moreira de Souza; PINTO, Giuliano Scombatti. **O impacto do design na criação de sistemas mais acessíveis**. Revista Interface Tecnológica, v. 21, n. 2, p. 224-235, 2024.`
+`SOUZA, Marília Rodrigues de; SILVA, Tiago Barros Pontes e. **(In)acessibilidade e ergonomia cognitiva: perspectiva de integração em prol da inclusão digital**. In: 15º CONGRESSO BRASILEIRO DE PESQUISA E DESENVOLVIMENTO EM DESIGN, 2024, Manaus. **Anais...** Manaus: UFAM / UnB, 2024.`
+`...`
 
 ## Checklist
 
-* [ ] A introdução termina com o objetivo.
-* [ ] A metodologia descreve o processo realmente realizado.
-* [ ] A revisão compara os artigos.
-* [ ] A conclusão responde ao problema.
-* [ ] O resumo representa o texto completo.
+* [x] A introdução termina com o objetivo.
+* [x] A metodologia descreve o processo realmente realizado.
+* [x] A revisão compara os artigos.
+* [x] A conclusão responde ao problema.
+* [x] O resumo representa o texto completo.
 
