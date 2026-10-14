@@ -6,7 +6,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `[Acessibilidade Digital e Design Inclusivo: Uma Revisão Completa sobre Barreiras, Práticas de UI/UX e Desafios para a organização.]`
 * Versão revisada: `[número]`
 * Data: `[14/10/2026]`
 * Responsável pela conferência final: `[João Vithor Silva Albuquerque]`
