@@ -34,15 +34,15 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### Síntese crítica
 
-`A síntese da literatura mostra que as barreiras na web são estruturais e que pensar no design inclusivo desde o início é bem mais eficaz do que tentar corrigir problemas depois. Todos os autores concordam com a importância da experiência do usuário, mas cada um tem um foco diferente: alguns priorizam aspectos técnicos, outros o visual, e outros ainda a dimensão social. Um ponto em comum entre os estudos é uma limitação importante: nenhum deles fez testes práticos de usabilidade com pessoas com deficiência em ambiente de laboratório.`
+`A síntese mostra que as barreiras web são estruturais e que pensar no design inclusivo desde o início é bem mais eficaz do que tentar corrigir problemas depois. Todos os autores concordam com a importância da experiência do usuário, mas cada um tem um foco diferente: alguns priorizam aspectos técnicos, outros o visual, e outros ainda a dimensão social. Um ponto em comum entre os artigos é uma limitação importante: nenhum deles fez testes práticos de usabilidade com pessoas com deficiência.`
 
 ## Considerações finais
 
-`A revisão integrativa mostrou que a acessibilidade digital exige a convergência entre técnicas de UI/UX, ergonomia cognitiva e engajamento organizacional. Para superar as barreiras, é necessário reestruturar o ensino universitário de tecnologia e garantir o compromisso corporativo com o design inclusivo desde a concepção do produto. Como contribuição, o artigo consolida o estado da arte, destaca a necessidade urgente de investigações empíricas com usuários reais e oferece bases teóricas para projetos inclusivos.`
+`A revisão mostra que acessibilidade digital exige a convergência entre técnicas de UI/UX, estrutura cognitiva e engajamento organizacional. Para superar as barreiras, reestruturar o ensino universitário de tecnologia e garantir o compromisso corporativo com o design inclusivo desde a concepção é o melhor a se fazer. Como contribuição, o artigo consolida o estado da arte, destaca a necessidade urgente de investigações com usuários reais e oferece melhores bases teóricas para projetos inclusivos.`
 
 ## Resumo
 
-`A acessibilidade digital no Brasil permanece um desafio crítico, com a maioria das plataformas web apresentando barreiras de navegação. Este artigo realiza uma revisão integrativa da literatura com base em três estudos de 2024 para analisar os entraves e as soluções em UI/UX. Os resultados indicam que as barreiras afetam múltiplos perfis de usuários, que o planejamento preventivo reduz custos e que a falta de capacitação profissional perpetua a exclusão. Conclui-se destacando a escassez de testes empíricos com usuários reais.`
+`A acessibilidade digital no Brasil continua um desafio crítico, com a maioria das plataformas web apresentando barreiras de navegação. Este artigo realiza uma revisão completa e funcional da literatura com base em três estudos de 2024 para analisar os problemas e as soluções em UI/UX. Os resultados indicam que as barreiras podem afetar múltiplos usuários, que o planejamento preventivo reduz custos e que a falta de capacitação profissional compactua com a exclusão. Conclui-se destacando a escassez de testes com usuários reais.`
 
 ## Referências
 
